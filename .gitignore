@@ -4,6 +4,7 @@
 /client/public/
 /server/node_modules/
 /server/public/
+/server.rar
 # Logs
 logs
 *.log

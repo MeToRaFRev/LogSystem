@@ -15,8 +15,9 @@ This project introduces a specialized logging system tailored for IBM DataPower 
 To install this logging system:
 
 1.  Visit the Releases page of the repository.
-2.  Download the latest release suitable for your environment.
-3.  Follow the provided installation instructions in the release package.
+2.  Download the latest release.
+3.  Install NPM
+4.  open terminal in the same folder of the server and run npm start
 
 ## Usage
 
